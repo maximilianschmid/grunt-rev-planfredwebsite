@@ -1,4 +1,8 @@
-# grunt-rev [![Build Status](https://travis-ci.org/cbas/grunt-rev.png)](https://travis-ci.org/cbas/grunt-rev)
+# grunt-rev - Patched version!
+
+## Patch Info:
+
+Always use the same rev-id for all ressources to enable svg/png switch.
 
 > Static file asset revisioning through content hashing
 
